@@ -12,6 +12,11 @@ img {
     height: auto;
 }
 
+.goods-img {
+    object-fit: contain;
+    height: 236px;
+}
+
 .header {
     padding: 15px 0;
 }
